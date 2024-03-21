@@ -13,3 +13,8 @@
 | 模型名称                       | 下载链接                                                     |模型能力          |
 | :----------------------------- | :----------------------------------------------------------- | :----------------|
 |Xunzi_Qwen_7b_relation_rxtraction   | [链接](https://modelscope.cn/models/shenxin0925/Xunzi_Qwen_7b_relation_rxtraction) |根据用户提供的关系scheme列表抽取古籍中的关系三元组|
+
+
+
+# 关系抽取效果展示
+![index](./examples/index.png)
