@@ -17,4 +17,4 @@
 
 
 # 关系抽取效果展示
-![index](./examples/index.png)
+![index](./pic/pic1.png)
